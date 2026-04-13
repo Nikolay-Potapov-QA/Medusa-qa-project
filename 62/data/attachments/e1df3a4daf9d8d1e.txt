@@ -1,0 +1,5 @@
+
+[API] Генерируем ключ для корзины
+[API] Ключ получен: pk_b221a94bf91fd0da64385a32d5415be8b15f2cc7b6ec4610dc1b667fc401373a
+[API] Удаляем товар: prod_01KP3C6KJAAZE0G8328MT15X2B
+[API] Товар prod_01KP3C6KJAAZE0G8328MT15X2B удален!
