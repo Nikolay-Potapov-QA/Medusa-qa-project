@@ -1,0 +1,5 @@
+
+[API] Генерируем ключ для корзины
+[API] Ключ получен: pk_f5903b808c977bc29d1e52ffc69eb43e1aa3a716974e55ff2fe2842fcea84a9b
+[API] Удаляем товар: prod_01KP89ZA5KPF43SRW620HBMWTX
+[API] Товар prod_01KP89ZA5KPF43SRW620HBMWTX удален!
