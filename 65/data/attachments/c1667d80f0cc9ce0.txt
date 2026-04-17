@@ -1,5 +1,0 @@
-
-[API] Генерируем ключ для корзины
-[API] Ключ получен: pk_0aa11a22f8b72a584bf7cf3d529c5210880c589c51a3b08e116f4d57aa06b9bf
-[API] Удаляем товар: prod_01KPAWAP2HGGQE7J99924X35RC
-[API] Товар prod_01KPAWAP2HGGQE7J99924X35RC удален!
