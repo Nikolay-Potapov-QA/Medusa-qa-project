@@ -1,0 +1,5 @@
+
+[API] Генерируем ключ для корзины
+[API] Ключ получен: pk_730aa4e505e8b13186a4b6b02f82d964ef62ee7737e0fd281d497a97612c49dd
+[API] Удаляем товар: prod_01KSFHAF2PCT2MXFKM2EHE711J
+[API] Товар prod_01KSFHAF2PCT2MXFKM2EHE711J удален!
