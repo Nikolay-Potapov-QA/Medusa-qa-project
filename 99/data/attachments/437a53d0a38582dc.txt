@@ -1,0 +1,5 @@
+
+[API] Генерируем ключ для корзины
+[API] Ключ получен: pk_725487d11d7e2b60e25345dbc4d21a8d2868fc369256de2f4dfe65221d4983a8
+[API] Удаляем товар: prod_01KT979NF8VD6M6MMBNFVE70EG
+[API] Товар prod_01KT979NF8VD6M6MMBNFVE70EG удален!
