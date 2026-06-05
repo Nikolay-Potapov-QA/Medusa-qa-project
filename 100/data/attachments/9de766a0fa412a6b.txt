@@ -1,0 +1,5 @@
+
+[API] Генерируем ключ для корзины
+[API] Ключ получен: pk_ab74aa640e96fa68ae13980ed39e93e38ad4638d20acfcffb988bb88af3292bd
+[API] Удаляем товар: prod_01KTBTBSAR0M82M976XJEBHCQR
+[API] Товар prod_01KTBTBSAR0M82M976XJEBHCQR удален!
