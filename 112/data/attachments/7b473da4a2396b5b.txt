@@ -1,5 +1,0 @@
-
-[API] Генерируем ключ для корзины
-[API] Ключ получен: pk_9ae4c551cb03a3ffaae21bd91f2a05888b502baaae557adc705a6b20d073f882
-[API] Удаляем товар: prod_01KVT59TMVRK7VFX1W73XHZB98
-[API] Товар prod_01KVT59TMVRK7VFX1W73XHZB98 удален!
