@@ -1,0 +1,5 @@
+
+[API] Генерируем ключ для корзины
+[API] Ключ получен: pk_a11350aeb759ca79bffaac44b3bcf471cdc4212dda450c7e7a7949c7cd4a48ad
+[API] Удаляем товар: prod_01KWC5AAS1QCK2J66TWBV7252N
+[API] Товар prod_01KWC5AAS1QCK2J66TWBV7252N удален!
