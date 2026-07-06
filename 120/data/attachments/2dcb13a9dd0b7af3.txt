@@ -1,5 +1,0 @@
-
-[API] Генерируем ключ для корзины
-[API] Ключ получен: pk_22bb8c4f78766dd11ea106be4cf1880eb4005fa15ef1f048e06d471a4104905a
-[API] Удаляем товар: prod_01KWKVS4KTE2095TGDPKR29DNA
-[API] Товар prod_01KWKVS4KTE2095TGDPKR29DNA удален!
