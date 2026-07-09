@@ -1,5 +1,0 @@
-
-[API] Генерируем ключ для корзины
-[API] Ключ получен: pk_bd07eb73b0300abcf09bbcf55697b1fc2a544b4c05910d5663127ae7c3ffdc16
-[API] Удаляем товар: prod_01KX0NY3H2P2KP460GBP7TFR9B
-[API] Товар prod_01KX0NY3H2P2KP460GBP7TFR9B удален!

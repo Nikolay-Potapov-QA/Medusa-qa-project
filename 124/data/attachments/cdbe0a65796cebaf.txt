@@ -1,0 +1,5 @@
+
+[API] Генерируем ключ для корзины
+[API] Ключ получен: pk_ddb881757ee15d0cbb3538693e1bedb1df54afe2b6a07f34afcde39115fe09c6
+[API] Удаляем товар: prod_01KX3B811KSG73R0J80DV4TM8V
+[API] Товар prod_01KX3B811KSG73R0J80DV4TM8V удален!
