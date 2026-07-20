@@ -1,0 +1,3 @@
+
+[API] Генерируем ключ для корзины
+[API] Ключ получен: pk_68af1db88d3948dc3cdff2baf7fb2ffe8af28ee821441792afe87c2d5d42cca8
