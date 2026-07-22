@@ -15,7 +15,7 @@ Medusa QA Project
 Инструмент	Роль
 🐍 Python 3.11	язык тестов
 ✅ Pytest	тест-раннер
-🎭 Playwright	API-клиент (playwright.request); Page Object классы для UI реализованы, но пока не подключены к прогону
+🎭 Playwright	API-клиент (playwright.request); Page Object классы для UI реализованы, но не подключены к прогону
 📊 Allure	отчётность, публикация на GitHub Pages
 🔄 GitHub Actions	CI/CD: по расписанию и при пуше
 📩 Telegram Bot API	уведомления о результатах прогона
