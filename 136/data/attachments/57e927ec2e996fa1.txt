@@ -1,0 +1,5 @@
+
+[API] Генерируем ключ для корзины
+[API] Ключ получен: pk_91a82fb9beb9c43c50a6a8bbb66a8c30735f6c5f86d6b4d7c260e92d79c0fea9
+[API] Удаляем товар: prod_01KY50ZN644XVGF75XGBPEG8P3
+[API] Товар prod_01KY50ZN644XVGF75XGBPEG8P3 удален!
