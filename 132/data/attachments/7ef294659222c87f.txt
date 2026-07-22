@@ -1,5 +1,0 @@
-
-[API] Генерируем ключ для корзины
-[API] Ключ получен: pk_76103d5a1ab7543c35a903a56f5d13aa92da3e8f3f54e25f7dec6210b68bca0f
-[API] Удаляем товар: prod_01KY256M25B97K90GC4AHS3ZQM
-[API] Товар prod_01KY256M25B97K90GC4AHS3ZQM удален!
