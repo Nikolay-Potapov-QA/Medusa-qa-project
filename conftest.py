@@ -29,7 +29,8 @@ def api_client(playwright: Playwright):
     request_context.dispose()  # dispose нужен для разрыва соединения
 
 
-# Фикстуры фронта
+# Фикстуры фронта - заготовка, тесты отключены (нестабильный фронтенд в локальном окружении)
+
 
 
 @pytest.fixture
