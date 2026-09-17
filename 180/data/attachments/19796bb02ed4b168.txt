@@ -1,5 +1,0 @@
-
-[API] Генерируем ключ для корзины
-[API] Ключ получен: pk_59776d9f657d28408dc19c160e9b10cf1cdde2c1b672f6176f5470ab300b9859
-[API] Удаляем товар: prod_01M2N80SN8S4B1S86T5HB3KNPV
-[API] Товар prod_01M2N80SN8S4B1S86T5HB3KNPV удален!
