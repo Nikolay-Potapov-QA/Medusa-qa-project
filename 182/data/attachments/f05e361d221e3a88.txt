@@ -1,5 +1,0 @@
-
-[API] Генерируем ключ для корзины
-[API] Ключ получен: pk_7bf76dd823c1e238f1b6bacc9ea3529c46d2d13055bfa6ddb5eb3797755dfd9a
-[API] Удаляем товар: prod_01M2TAMBWAEK200PBBEPBW8EC5
-[API] Товар prod_01M2TAMBWAEK200PBBEPBW8EC5 удален!
