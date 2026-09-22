@@ -1,5 +1,0 @@
-
-[API] Генерируем ключ для корзины
-[API] Ключ получен: pk_f52550983a34305e3409ebda3fa7f170320eb190cc68350ff1ccb1819b843105
-[API] Удаляем товар: prod_01M329EZV2EPVEGMKX6A5FSJAB
-[API] Товар prod_01M329EZV2EPVEGMKX6A5FSJAB удален!
