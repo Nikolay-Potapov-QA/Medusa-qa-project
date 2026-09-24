@@ -1,0 +1,5 @@
+
+[API] Генерируем ключ для корзины
+[API] Ключ получен: pk_6a9588280d73cd1542771c6b0ede33aca42fa65fd1fbd81d7b3078ca8e8eb1e8
+[API] Удаляем товар: prod_01M39V8MEXSEE6S0SMCV9Q2A10
+[API] Товар prod_01M39V8MEXSEE6S0SMCV9Q2A10 удален!

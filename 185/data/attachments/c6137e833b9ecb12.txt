@@ -1,5 +1,0 @@
-
-[API] Генерируем ключ для корзины
-[API] Ключ получен: pk_41f140fd96bc5ecbf437a9019f3a5d9eb00925db487564ce62d3a5ef8910cc3c
-[API] Удаляем товар: prod_01M3791NW7ZM6C2KBRRTEBB1MS
-[API] Товар prod_01M3791NW7ZM6C2KBRRTEBB1MS удален!
