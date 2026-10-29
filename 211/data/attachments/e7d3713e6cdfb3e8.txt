@@ -1,0 +1,5 @@
+
+[API] Генерируем ключ для корзины
+[API] Ключ получен: pk_e0cae31833e5b8070bc732e55e0f251109c1a2822e8a8e1eff63b3f5e9f5c531
+[API] Удаляем товар: prod_01M645E2SJMCW8H50J9SZ47RYH
+[API] Товар prod_01M645E2SJMCW8H50J9SZ47RYH удален!
