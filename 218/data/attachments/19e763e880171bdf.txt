@@ -1,5 +1,0 @@
-
-[API] Генерируем ключ для корзины
-[API] Ключ получен: pk_5800e57124389825c1425c868022da14ff06d18e22a30604d3edf016b2b725f9
-[API] Удаляем товар: prod_01M70W5G1EN1JXP1FXF05SNEH5
-[API] Товар prod_01M70W5G1EN1JXP1FXF05SNEH5 удален!
