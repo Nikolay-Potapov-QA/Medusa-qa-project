@@ -1,5 +1,0 @@
-
-[API] Генерируем ключ для корзины
-[API] Ключ получен: pk_867835048e3e2f91556b23d24428e3af89ef6773cb1cfea5aadf1c6b06757c6b
-[API] Удаляем товар: prod_01M75R4ZJ9WAE65GVF29STF7ZJ
-[API] Товар prod_01M75R4ZJ9WAE65GVF29STF7ZJ удален!
