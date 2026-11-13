@@ -1,5 +1,0 @@
-
-[API] Генерируем ключ для корзины
-[API] Ключ получен: pk_a31e51b312eef6b2e720b7fb129db2697b1860b7e3e367d096264686d89d4828
-[API] Удаляем товар: prod_01M78C5AERBRVCX9APW2ME4GCM
-[API] Товар prod_01M78C5AERBRVCX9APW2ME4GCM удален!
