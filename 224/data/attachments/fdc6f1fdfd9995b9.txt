@@ -1,0 +1,5 @@
+
+[API] Генерируем ключ для корзины
+[API] Ключ получен: pk_101246a419eec2947c9811c99ca835a71b44f2848e13a21b9fa2a8bc0af2a980
+[API] Удаляем товар: prod_01M7NAQHDRYZGHXHP5V39CMRFX
+[API] Товар prod_01M7NAQHDRYZGHXHP5V39CMRFX удален!
