@@ -1,0 +1,5 @@
+
+[API] Генерируем ключ для корзины
+[API] Ключ получен: pk_cde5c4b094332a9cf8d4103eaf46a82994f8e11dd38ba1587918dc5be8b8e6fd
+[API] Удаляем товар: prod_01M8A1259VJGC42FEDH5HJ0Y0P
+[API] Товар prod_01M8A1259VJGC42FEDH5HJ0Y0P удален!
